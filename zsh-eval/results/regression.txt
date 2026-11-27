@@ -1,0 +1,2 @@
+REGRESSION (bash/sh, master-binary vs zsh-binary): compared=59 identical=59 differing=0 timed_out_skipped=1
+example lines: 50

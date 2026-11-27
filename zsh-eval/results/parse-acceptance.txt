@@ -1,0 +1,29 @@
+=== PARSE ACCEPTANCE ===
+stable: total=2195 parsed_ok=1567 fatal_parse_or_refusal=628
+zsh: total=2195 parsed_ok=2113 fatal_parse_or_refusal=82
+=== top warning codes (zsh) ===
+   2179 SC2034
+    580 SC2016
+    376 SC2086
+    316 SC2168
+    264 SC2154
+    253 SC2207
+    248 SC1087
+    225 SC2148
+    207 SC2139
+    206 SC2155
+    193 SC2046
+    190 SC2296
+    187 SC2004
+    152 SC2190
+    143 SC2309
+    127 SC2162
+    113 SC2128
+     98 SC2206
+     93 SC1001
+     85 SC2026
+     82 SC1073
+     82 SC1072
+     79 SC1090
+     79 SC1083
+     77 SC2119
